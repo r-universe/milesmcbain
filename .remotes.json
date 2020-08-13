@@ -1,14 +1,38 @@
 [
   {
+    "package": "capsule",
+    "url": "https://github.com/milesmcbain/capsule",
+    "via": ["dflow"],
+    "from": "dflow"
+  },
+  {
+    "package": "fnmate",
+    "url": "https://github.com/milesmcbain/fnmate",
+    "via": ["dflow"],
+    "from": "dflow"
+  },
+  {
     "package": "renv",
     "url": "https://github.com/rstudio/renv",
     "via": ["capsule"],
     "from": "capsule"
   },
   {
+    "package": "renv",
+    "url": "https://github.com/rstudio/renv",
+    "via": ["dflow", "capsule"],
+    "from": "dflow"
+  },
+  {
     "package": "using",
     "url": "https://github.com/anthonynorth/using",
     "via": ["capsule"],
     "from": "capsule"
+  },
+  {
+    "package": "using",
+    "url": "https://github.com/anthonynorth/using",
+    "via": ["dflow", "capsule"],
+    "from": "dflow"
   }
 ]
