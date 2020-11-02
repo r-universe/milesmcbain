@@ -51,3 +51,13 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "renv"]
+	path = renv
+	url = https://github.com/rstudio/renv
+	shallow = true
+	registered = false
+[submodule "using"]
+	path = using
+	url = https://github.com/anthonynorth/using
+	shallow = true
+	registered = false

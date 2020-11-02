@@ -1,0 +1,14 @@
+[
+  {
+    "package": "renv",
+    "url": "https://github.com/rstudio/renv",
+    "via": ["capsule"],
+    "from": "capsule"
+  },
+  {
+    "package": "using",
+    "url": "https://github.com/anthonynorth/using",
+    "via": ["capsule"],
+    "from": "capsule"
+  }
+]
