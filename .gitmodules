@@ -51,6 +51,11 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "ggfx"]
+	path = ggfx
+	url = https://github.com/thomasp85/ggfx
+	shallow = true
+	registered = false
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv

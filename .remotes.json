@@ -24,6 +24,12 @@
     "from": "tflow"
   },
   {
+    "package": "ggfx",
+    "url": "https://github.com/thomasp85/ggfx",
+    "via": ["inlegend"],
+    "from": "inlegend"
+  },
+  {
     "package": "renv",
     "url": "https://github.com/rstudio/renv",
     "via": ["capsule"],
