@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datapasta"]
+	path = datapasta
+	url = https://github.com/milesmcbain/datapasta
+	shallow = true
+	registered = true
+[submodule "slippymath"]
+	path = slippymath
+	url = https://github.com/milesmcbain/slippymath
+	shallow = true
+	registered = true

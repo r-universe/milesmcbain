@@ -1,0 +1,10 @@
+[
+  {
+    "package": "datapasta",
+    "oncran": true
+  },
+  {
+    "package": "slippymath",
+    "oncran": true
+  }
+]
