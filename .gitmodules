@@ -1,15 +1,53 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/milesmcbain/universe
 	shallow = true
 	branch = HEAD
+[submodule "fnmate"]
+	path = fnmate
+	url = https://github.com/milesmcbain/fnmate
+	shallow = true
+	branch = master
+	registered = true
+[submodule "breakerofchains"]
+	path = breakerofchains
+	url = https://github.com/milesmcbain/breakerofchains
+	shallow = true
+	branch = main
+	registered = true
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/milesmcbain/datapasta
 	shallow = true
+	branch = master
 	registered = true
 [submodule "slippymath"]
 	path = slippymath
 	url = https://github.com/milesmcbain/slippymath
 	shallow = true
+	branch = master
+	registered = true
+[submodule "capsule"]
+	path = capsule
+	url = https://github.com/milesmcbain/capsule
+	shallow = true
+	branch = master
+	registered = true
+[submodule "dflow"]
+	path = dflow
+	url = https://github.com/milesmcbain/dflow
+	shallow = true
+	branch = master
+	registered = true
+[submodule "tflow"]
+	path = tflow
+	url = https://github.com/milesmcbain/tflow
+	shallow = true
+	branch = master
+	registered = true
+[submodule "inlegend"]
+	path = inlegend
+	url = https://github.com/milesmcbain/inlegend
+	shallow = true
+	branch = master
 	registered = true

@@ -1,10 +1,28 @@
 [
   {
+    "package": "fnmate"
+  },
+  {
+    "package": "breakerofchains"
+  },
+  {
     "package": "datapasta",
     "oncran": true
   },
   {
     "package": "slippymath",
     "oncran": true
+  },
+  {
+    "package": "capsule"
+  },
+  {
+    "package": "dflow"
+  },
+  {
+    "package": "tflow"
+  },
+  {
+    "package": "inlegend"
   }
 ]
