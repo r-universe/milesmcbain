@@ -21,6 +21,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "rmdocs"]
+	path = rmdocs
+	url = https://github.com/milesmcbain/rmdocs
+	shallow = true
+	branch = main
+	registered = true
 [submodule "slippymath"]
 	path = slippymath
 	url = https://github.com/milesmcbain/slippymath

@@ -10,6 +10,9 @@
     "oncran": true
   },
   {
+    "package": "rmdocs"
+  },
+  {
     "package": "slippymath",
     "oncran": true
   },
