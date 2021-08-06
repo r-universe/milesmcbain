@@ -3,6 +3,12 @@
 	url = https://github.com/milesmcbain/universe
 	shallow = true
 	branch = HEAD
+[submodule "paint"]
+	path = paint
+	url = https://github.com/milesmcbain/paint
+	shallow = true
+	branch = master
+	registered = true
 [submodule "fnmate"]
 	path = fnmate
 	url = https://github.com/milesmcbain/fnmate
