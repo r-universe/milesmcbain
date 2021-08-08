@@ -7,7 +7,7 @@
 	path = paint
 	url = https://github.com/milesmcbain/paint
 	shallow = true
-	branch = master
+	branch = v0.1.1
 	registered = true
 [submodule "fnmate"]
 	path = fnmate
