@@ -1,5 +1,11 @@
 [
   {
+    "package": "atcursor",
+    "url": "https://github.com/milesmcbain/atcursor",
+    "via": ["tflow"],
+    "from": "tflow"
+  },
+  {
     "package": "capsule",
     "url": "https://github.com/milesmcbain/capsule",
     "via": ["dflow"],
