@@ -63,6 +63,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "atcursor"]
+	path = atcursor
+	url = https://github.com/milesmcbain/atcursor
+	shallow = true
+	branch = main
+	registered = true
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
