@@ -39,24 +39,6 @@
 	shallow = true
 	branch = master
 	registered = true
-[submodule "capsule"]
-	path = capsule
-	url = https://github.com/milesmcbain/capsule
-	shallow = true
-	branch = master
-	registered = true
-[submodule "dflow"]
-	path = dflow
-	url = https://github.com/milesmcbain/dflow
-	shallow = true
-	branch = master
-	registered = true
-[submodule "tflow"]
-	path = tflow
-	url = https://github.com/milesmcbain/tflow
-	shallow = true
-	branch = master
-	registered = true
 [submodule "inlegend"]
 	path = inlegend
 	url = https://github.com/milesmcbain/inlegend
