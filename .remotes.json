@@ -32,12 +32,6 @@
   {
     "package": "renv",
     "url": "https://github.com/rstudio/renv",
-    "via": ["capsule"],
-    "from": "capsule"
-  },
-  {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
     "via": ["dflow", "capsule"],
     "from": "dflow"
   },
