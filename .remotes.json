@@ -36,12 +36,6 @@
     "from": "dflow"
   },
   {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
-    "via": ["tflow", "capsule"],
-    "from": "tflow"
-  },
-  {
     "package": "using",
     "url": "https://github.com/anthonynorth/using",
     "via": ["capsule"],
