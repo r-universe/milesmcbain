@@ -69,6 +69,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "mvtview"]
+	path = mvtview
+	url = https://github.com/milesmcbain/mvtview
+	shallow = true
+	branch = main
+	registered = true
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
