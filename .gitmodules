@@ -75,9 +75,34 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "ambiorix"]
+	path = ambiorix
+	url = https://github.com/devOpifex/ambiorix
+	shallow = true
+	registered = false
+[submodule "rdeck"]
+	path = rdeck
+	url = https://github.com/anthonynorth/rdeck
+	shallow = true
+	registered = false
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
+	shallow = true
+	registered = false
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/anthonynorth/roxyglobals
+	shallow = true
+	registered = false
+[submodule "stylebox"]
+	path = stylebox
+	url = https://github.com/anthonynorth/stylebox
+	shallow = true
+	registered = false
+[submodule "tidyassert"]
+	path = tidyassert
+	url = https://github.com/qfes/tidyassert
 	shallow = true
 	registered = false
 [submodule "using"]

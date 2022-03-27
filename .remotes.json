@@ -1,5 +1,11 @@
 [
   {
+    "package": "ambiorix",
+    "url": "https://github.com/devOpifex/ambiorix",
+    "via": ["mvtview"],
+    "from": "mvtview"
+  },
+  {
     "package": "atcursor",
     "url": "https://github.com/milesmcbain/atcursor",
     "via": ["tflow"],
@@ -30,10 +36,40 @@
     "from": "tflow"
   },
   {
+    "package": "rdeck",
+    "url": "https://github.com/anthonynorth/rdeck",
+    "via": ["mvtview"],
+    "from": "mvtview"
+  },
+  {
     "package": "renv",
     "url": "https://github.com/rstudio/renv",
     "via": ["dflow", "capsule"],
     "from": "dflow"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["mvtview", "rdeck"],
+    "from": "mvtview"
+  },
+  {
+    "package": "roxyglobals",
+    "url": "https://github.com/anthonynorth/roxyglobals",
+    "via": ["mvtview"],
+    "from": "mvtview"
+  },
+  {
+    "package": "stylebox",
+    "url": "https://github.com/anthonynorth/stylebox",
+    "via": ["mvtview", "rdeck"],
+    "from": "mvtview"
+  },
+  {
+    "package": "tidyassert",
+    "url": "https://github.com/qfes/tidyassert",
+    "via": ["mvtview", "rdeck"],
+    "from": "mvtview"
   },
   {
     "package": "using",
