@@ -75,11 +75,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "ambiorix"]
-	path = ambiorix
-	url = https://github.com/devOpifex/ambiorix
-	shallow = true
-	registered = false
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/anthonynorth/rdeck

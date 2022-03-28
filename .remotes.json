@@ -1,11 +1,5 @@
 [
   {
-    "package": "ambiorix",
-    "url": "https://github.com/devOpifex/ambiorix",
-    "via": ["mvtview"],
-    "from": "mvtview"
-  },
-  {
     "package": "atcursor",
     "url": "https://github.com/milesmcbain/atcursor",
     "via": ["tflow"],
