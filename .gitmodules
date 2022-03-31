@@ -75,6 +75,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "rdeck.controls"]
+	path = rdeck.controls
+	url = https://github.com/qfes/rdeck.controls
+	shallow = true
+	branch = master
+	registered = true
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/anthonynorth/rdeck

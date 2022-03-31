@@ -36,5 +36,8 @@
   },
   {
     "package": "mvtview"
+  },
+  {
+    "package": "rdeck.controls"
   }
 ]
