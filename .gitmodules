@@ -81,6 +81,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "testrpkg"]
+	path = testrpkg
+	url = https://github.com/milesmcbain/testrpkg
+	shallow = true
+	branch = main
+	registered = true
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/anthonynorth/rdeck
