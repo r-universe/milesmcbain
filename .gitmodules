@@ -107,6 +107,11 @@
 	url = https://github.com/anthonynorth/stylebox
 	shallow = true
 	registered = false
+[submodule "testrpkg2"]
+	path = testrpkg2
+	url = https://github.com/milesmcbain/testrpkg2
+	shallow = true
+	registered = false
 [submodule "tidyassert"]
 	path = tidyassert
 	url = https://github.com/qfes/tidyassert

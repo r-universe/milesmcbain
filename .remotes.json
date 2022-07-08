@@ -84,6 +84,12 @@
     "from": "rdeck.controls"
   },
   {
+    "package": "testrpkg2",
+    "url": "https://github.com/milesmcbain/testrpkg2",
+    "via": ["testrpkg"],
+    "from": "testrpkg"
+  },
+  {
     "package": "tidyassert",
     "url": "https://github.com/qfes/tidyassert",
     "via": ["mvtview", "rdeck"],
