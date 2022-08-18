@@ -1,6 +1,7 @@
 [
   {
-    "package": "paint"
+    "package": "paint",
+    "releasetag": true
   },
   {
     "package": "fnmate"
