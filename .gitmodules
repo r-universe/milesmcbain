@@ -91,7 +91,7 @@
 	path = rmdgh
 	url = https://github.com/milesmcbain/rmdgh
 	shallow = true
-	branch = *release
+	branch = v0.2.0
 	registered = true
 [submodule "rdeck"]
 	path = rdeck
