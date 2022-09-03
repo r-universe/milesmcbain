@@ -43,5 +43,9 @@
   },
   {
     "package": "testrpkg"
+  },
+  {
+    "package": "rmdgh",
+    "releasetag": true
   }
 ]

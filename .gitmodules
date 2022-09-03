@@ -87,6 +87,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "rmdgh"]
+	path = rmdgh
+	url = https://github.com/milesmcbain/rmdgh
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/anthonynorth/rdeck
