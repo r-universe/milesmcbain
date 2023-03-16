@@ -4,45 +4,6 @@
     "releasetag": true
   },
   {
-    "package": "fnmate"
-  },
-  {
-    "package": "breakerofchains"
-  },
-  {
-    "package": "datapasta"
-  },
-  {
-    "package": "rmdocs"
-  },
-  {
-    "package": "slippymath"
-  },
-  {
-    "package": "capsule"
-  },
-  {
-    "package": "dflow"
-  },
-  {
-    "package": "tflow"
-  },
-  {
-    "package": "inlegend"
-  },
-  {
-    "package": "atcursor"
-  },
-  {
-    "package": "mvtview"
-  },
-  {
-    "package": "rdeck.controls"
-  },
-  {
-    "package": "testrpkg"
-  },
-  {
     "package": "rmdgh",
     "releasetag": true
   }
