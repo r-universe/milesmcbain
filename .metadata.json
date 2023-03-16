@@ -10,15 +10,13 @@
     "package": "breakerofchains"
   },
   {
-    "package": "datapasta",
-    "oncran": true
+    "package": "datapasta"
   },
   {
     "package": "rmdocs"
   },
   {
-    "package": "slippymath",
-    "oncran": true
+    "package": "slippymath"
   },
   {
     "package": "capsule"
