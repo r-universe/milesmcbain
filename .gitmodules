@@ -1,130 +1,92 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/milesmcbain/universe
-	shallow = true
 	branch = HEAD
 [submodule "paint"]
 	path = paint
 	url = https://github.com/milesmcbain/paint
-	shallow = true
 	branch = v0.1.7
-	registered = true
 [submodule "fnmate"]
 	path = fnmate
 	url = https://github.com/milesmcbain/fnmate
-	shallow = true
 	branch = master
-	registered = true
 [submodule "breakerofchains"]
 	path = breakerofchains
 	url = https://github.com/milesmcbain/breakerofchains
-	shallow = true
 	branch = main
-	registered = true
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/milesmcbain/datapasta
-	shallow = true
 	branch = master
-	registered = true
 [submodule "rmdocs"]
 	path = rmdocs
 	url = https://github.com/milesmcbain/rmdocs
-	shallow = true
 	branch = main
-	registered = true
 [submodule "slippymath"]
 	path = slippymath
 	url = https://github.com/milesmcbain/slippymath
-	shallow = true
 	branch = master
-	registered = true
 [submodule "capsule"]
 	path = capsule
 	url = https://github.com/milesmcbain/capsule
-	shallow = true
 	branch = master
-	registered = true
 [submodule "dflow"]
 	path = dflow
 	url = https://github.com/milesmcbain/dflow
-	shallow = true
 	branch = master
-	registered = true
 [submodule "tflow"]
 	path = tflow
 	url = https://github.com/milesmcbain/tflow
-	shallow = true
 	branch = master
-	registered = true
 [submodule "inlegend"]
 	path = inlegend
 	url = https://github.com/milesmcbain/inlegend
-	shallow = true
 	branch = master
-	registered = true
 [submodule "atcursor"]
 	path = atcursor
 	url = https://github.com/milesmcbain/atcursor
-	shallow = true
 	branch = main
-	registered = true
 [submodule "mvtview"]
 	path = mvtview
 	url = https://github.com/milesmcbain/mvtview
-	shallow = true
 	branch = main
-	registered = true
 [submodule "rdeck.controls"]
 	path = rdeck.controls
 	url = https://github.com/qfes/rdeck.controls
-	shallow = true
 	branch = master
-	registered = true
 [submodule "testrpkg"]
 	path = testrpkg
 	url = https://github.com/milesmcbain/testrpkg
-	shallow = true
 	branch = main
-	registered = true
 [submodule "rmdgh"]
 	path = rmdgh
 	url = https://github.com/milesmcbain/rmdgh
-	shallow = true
 	branch = v0.3.2
-	registered = true
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/anthonynorth/rdeck
-	shallow = true
 	registered = false
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
-	shallow = true
 	registered = false
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
-	shallow = true
 	registered = false
 [submodule "stylebox"]
 	path = stylebox
 	url = https://github.com/anthonynorth/stylebox
-	shallow = true
 	registered = false
 [submodule "testrpkg2"]
 	path = testrpkg2
 	url = https://github.com/milesmcbain/testrpkg2
-	shallow = true
 	registered = false
 [submodule "tidyassert"]
 	path = tidyassert
 	url = https://github.com/qfes/tidyassert
-	shallow = true
 	registered = false
 [submodule "using"]
 	path = using
 	url = https://github.com/anthonynorth/using
-	shallow = true
 	registered = false
