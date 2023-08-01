@@ -2,86 +2,86 @@
 	path = .registry
 	url = https://github.com/milesmcbain/universe
 	branch = HEAD
-[submodule "paint"]
-	path = paint
-	url = https://github.com/milesmcbain/paint
-	branch = v0.1.7
-[submodule "fnmate"]
-	path = fnmate
-	url = https://github.com/milesmcbain/fnmate
-	branch = master
+[submodule "atcursor"]
+	path = atcursor
+	url = https://github.com/milesmcbain/atcursor
+	branch = main
 [submodule "breakerofchains"]
 	path = breakerofchains
 	url = https://github.com/milesmcbain/breakerofchains
 	branch = main
-[submodule "datapasta"]
-	path = datapasta
-	url = https://github.com/milesmcbain/datapasta
-	branch = master
-[submodule "rmdocs"]
-	path = rmdocs
-	url = https://github.com/milesmcbain/rmdocs
-	branch = main
-[submodule "slippymath"]
-	path = slippymath
-	url = https://github.com/milesmcbain/slippymath
-	branch = master
 [submodule "capsule"]
 	path = capsule
 	url = https://github.com/milesmcbain/capsule
+	branch = master
+[submodule "datapasta"]
+	path = datapasta
+	url = https://github.com/milesmcbain/datapasta
 	branch = master
 [submodule "dflow"]
 	path = dflow
 	url = https://github.com/milesmcbain/dflow
 	branch = master
-[submodule "tflow"]
-	path = tflow
-	url = https://github.com/milesmcbain/tflow
+[submodule "fnmate"]
+	path = fnmate
+	url = https://github.com/milesmcbain/fnmate
 	branch = master
 [submodule "inlegend"]
 	path = inlegend
 	url = https://github.com/milesmcbain/inlegend
 	branch = master
-[submodule "atcursor"]
-	path = atcursor
-	url = https://github.com/milesmcbain/atcursor
-	branch = main
 [submodule "mvtview"]
 	path = mvtview
 	url = https://github.com/milesmcbain/mvtview
 	branch = main
-[submodule "rdeck.controls"]
-	path = rdeck.controls
-	url = https://github.com/qfes/rdeck.controls
-	branch = master
-[submodule "testrpkg"]
-	path = testrpkg
-	url = https://github.com/milesmcbain/testrpkg
-	branch = main
-[submodule "rmdgh"]
-	path = rmdgh
-	url = https://github.com/milesmcbain/rmdgh
-	branch = v0.3.2
+[submodule "paint"]
+	path = paint
+	url = https://github.com/milesmcbain/paint
+	branch = v0.1.7
 [submodule "rdeck"]
 	path = rdeck
 	url = https://github.com/anthonynorth/rdeck
 	registered = false
+[submodule "rdeck.controls"]
+	path = rdeck.controls
+	url = https://github.com/qfes/rdeck.controls
+	branch = master
 [submodule "renv"]
 	path = renv
 	url = https://github.com/rstudio/renv
 	registered = false
+[submodule "rmdgh"]
+	path = rmdgh
+	url = https://github.com/milesmcbain/rmdgh
+	branch = v0.3.2
+[submodule "rmdocs"]
+	path = rmdocs
+	url = https://github.com/milesmcbain/rmdocs
+	branch = main
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
 	registered = false
+[submodule "slippymath"]
+	path = slippymath
+	url = https://github.com/milesmcbain/slippymath
+	branch = master
 [submodule "stylebox"]
 	path = stylebox
 	url = https://github.com/anthonynorth/stylebox
 	registered = false
+[submodule "testrpkg"]
+	path = testrpkg
+	url = https://github.com/milesmcbain/testrpkg
+	branch = main
 [submodule "testrpkg2"]
 	path = testrpkg2
 	url = https://github.com/milesmcbain/testrpkg2
 	registered = false
+[submodule "tflow"]
+	path = tflow
+	url = https://github.com/milesmcbain/tflow
+	branch = master
 [submodule "tidyassert"]
 	path = tidyassert
 	url = https://github.com/qfes/tidyassert
