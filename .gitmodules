@@ -22,6 +22,10 @@
 	path = dflow
 	url = https://github.com/milesmcbain/dflow
 	branch = master
+[submodule "flippingtables"]
+	path = flippingtables
+	url = https://github.com/milesmcbain/flippingtables
+	branch = main
 [submodule "fnmate"]
 	path = fnmate
 	url = https://github.com/milesmcbain/fnmate
