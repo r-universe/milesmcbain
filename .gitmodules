@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/milesmcbain/universe
+	url = https://github.com/milesmcbain/milesmcbain.r-universe.dev
 	branch = HEAD
 [submodule "atcursor"]
 	path = atcursor
