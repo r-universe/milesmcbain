@@ -30,6 +30,12 @@
     "from": "tflow"
   },
   {
+    "package": "paint",
+    "url": "https://github.com/MilesMcBain/paint",
+    "via": ["flippingtables"],
+    "from": "flippingtables"
+  },
+  {
     "package": "rdeck",
     "url": "https://github.com/anthonynorth/rdeck",
     "via": ["mvtview"],
