@@ -42,18 +42,10 @@
 	path = paint
 	url = https://github.com/milesmcbain/paint
 	branch = v0.1.7
-[submodule "rdeck"]
-	path = rdeck
-	url = https://github.com/anthonynorth/rdeck
-	registered = false
 [submodule "rdeck.controls"]
 	path = rdeck.controls
 	url = https://github.com/qfes/rdeck.controls
 	branch = master
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-	registered = false
 [submodule "rmdgh"]
 	path = rmdgh
 	url = https://github.com/milesmcbain/rmdgh
@@ -62,35 +54,15 @@
 	path = rmdocs
 	url = https://github.com/milesmcbain/rmdocs
 	branch = main
-[submodule "roxyglobals"]
-	path = roxyglobals
-	url = https://github.com/anthonynorth/roxyglobals
-	registered = false
 [submodule "slippymath"]
 	path = slippymath
 	url = https://github.com/milesmcbain/slippymath
 	branch = master
-[submodule "stylebox"]
-	path = stylebox
-	url = https://github.com/anthonynorth/stylebox
-	registered = false
 [submodule "testrpkg"]
 	path = testrpkg
 	url = https://github.com/milesmcbain/testrpkg
 	branch = main
-[submodule "testrpkg2"]
-	path = testrpkg2
-	url = https://github.com/milesmcbain/testrpkg2
-	registered = false
 [submodule "tflow"]
 	path = tflow
 	url = https://github.com/milesmcbain/tflow
 	branch = master
-[submodule "tidyassert"]
-	path = tidyassert
-	url = https://github.com/qfes/tidyassert
-	registered = false
-[submodule "using"]
-	path = using
-	url = https://github.com/anthonynorth/using
-	registered = false
