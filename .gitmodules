@@ -41,7 +41,7 @@
 [submodule "paint"]
 	path = paint
 	url = https://github.com/milesmcbain/paint
-	branch = v0.1.7
+	branch = v0.3.0
 [submodule "rdeck.controls"]
 	path = rdeck.controls
 	url = https://github.com/qfes/rdeck.controls
