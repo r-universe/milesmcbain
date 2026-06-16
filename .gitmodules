@@ -66,3 +66,7 @@
 	path = tflow
 	url = https://github.com/milesmcbain/tflow
 	branch = master
+[submodule "using"]
+	path = using
+	url = https://github.com/anthonynorth/using
+	branch = master
